@@ -1,0 +1,45 @@
+** start of index.html **
+
+<!doctype html>
+<html>
+  <html lang="en">
+  <head>
+  <meta charset="utf-8">
+  <Title>Krishna Travel Agency</title>
+  <meta name="description"content="Your trusted travel partner for seamless bookings, curated tours, and unforgettable travel experiences."/>
+  </head>
+ <body>
+<h1>Top Travel Destinations to Inspire You</h1>
+<p>Explore new places, cultures, and experiences. Your next adventure awaits!</p>
+<h2>Packages</h2>
+<p>Explore travel packages for adventure, relaxation, culture, and luxury—your perfect journey awaits.</p>
+<ul>
+  <li><a href="https://www.freecodecamp.org/learn"target="_blank">Group Travels</a></li>
+  <li><a href="https://www.freecodecamp.org/learn"target="_blank">Private Tours</a></li>
+</ul>
+<h2>Top Itineraries</h2>
+<figure>
+  <a href="https://www.freecodecamp.org/learn"target="_blank"><img src="https://lp-cms-production.imgix.net/2022-11/Malta-iStock-1296277157-RFE.jpeg?auto=format,compress&q=72&w=1095&fit=crop&crop=faces,edges" alt="Malta">
+</a>
+<figcaption>Explore Malta</figcaption>
+</figure>
+
+<figure>
+  <a href="https://www.freecodecamp.org/learn"target="_blank"><img src="https://lp-cms-production.imgix.net/2020-11/GettyRF_888220956.jpg?auto=format,compress&q=72&w=1095&fit=crop&crop=faces,edges" alt="miami">
+</a>
+<figcaption>Discover Miami</figcaption>
+</figure>
+<figure>
+  <a href="https://www.freecodecamp.org/learn"target="_blank"><img src="https://lp-cms-production.imgix.net/2021-10/Woman%20in%20lavender%20field%20By%20CACTUS%20Creative%20Studio%20Stocksy_txp95a12c14B4D300_Medium_2725600.jpg?auto=format,compress&q=72&w=1095&fit=crop&crop=faces,edges"alt="france">
+</a>
+<figcaption>Iconic france</figcaption>
+</figure>
+
+
+
+ </body>
+</html>
+
+
+** end of index.html **
+
